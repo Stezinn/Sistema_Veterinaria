@@ -37,6 +37,5 @@ public class ConexaoBancodeDados {
 
     public void closeConnection() throws SQLException {
         this.connection.close();
-
     }
 }
